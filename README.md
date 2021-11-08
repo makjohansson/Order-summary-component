@@ -24,7 +24,7 @@ Users should be able to:
 
 Desktop            |  Mobile
 :-------------------------:|:-------------------------:
-<img src="./solution/desktop.png" width="400"> |  <img src="./solution/mobile.png" height="400">
+<img src="./solution/desktop.png" width="600"> |  <img src="./solution/mobile.png" height="500">
 
 
 ### Built with
